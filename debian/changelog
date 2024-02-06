@@ -1,0 +1,5 @@
+python-ptyprocess (100:0.7.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pexpect/ptyprocess/releases/tag/0.7.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 06 Feb 2024 22:29:50 +0800

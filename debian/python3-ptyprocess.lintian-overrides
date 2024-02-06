@@ -1,0 +1,4 @@
+python3-ptyprocess: copyright-without-copyright-notice
+python3-ptyprocess: initial-upload-closes-no-bugs
+python3-ptyprocess: no-manual-page
+python3-ptyprocess: zero-byte-file-in-doc-directory
