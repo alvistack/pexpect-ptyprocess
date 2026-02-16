@@ -1,0 +1,4 @@
+python-ptyprocess source: file-without-copyright-information
+python-ptyprocess source: no-debian-changes
+python-ptyprocess source: source-contains-prebuilt-windows-binary
+python-ptyprocess source: source-package-encodes-python-version
